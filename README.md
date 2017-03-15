@@ -33,7 +33,7 @@ Run service locally:
 
 Test result of the RESTful API (using [todo-backend-js-spec](https://github.com/TodoBackend/todo-backend-js-spec)):
 
-![RESTful API Test Result](docs/img/vert-api-test.png)
+![RESTful API Test Result](docs/img/vert-jsapre-api-test.png)
 
 You can also run it with [the todo backend frontend client](http://www.todobackend.com/client/index.html):
 
