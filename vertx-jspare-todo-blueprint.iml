@@ -10,7 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="vertx-jspare-web" />
+    <orderEntry type="library" name="Maven: org.jspare.vertx:vertx-jspare-web:1.1.0-M03" level="project" />
     <orderEntry type="module" module-name="vertx-jspare" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.8.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.8.4" level="project" />
