@@ -3,7 +3,7 @@ package org.jspare.vertx.samples.todolist.services;
 import io.vertx.core.AsyncResult;
 import io.vertx.core.Future;
 import io.vertx.core.Handler;
-import org.jspare.vertx.jpa.annotation.RepositoryInject;
+import org.jspare.jpa.annotation.RepositoryInject;
 import org.jspare.vertx.samples.todolist.entity.Todo;
 import org.jspare.vertx.samples.todolist.repository.TodoRepository;
 

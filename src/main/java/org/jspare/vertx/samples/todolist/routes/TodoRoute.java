@@ -1,7 +1,6 @@
 package org.jspare.vertx.samples.todolist.routes;
 
 import io.vertx.core.AsyncResult;
-import org.jspare.core.annotation.Inject;
 import org.jspare.vertx.samples.todolist.entity.Todo;
 import org.jspare.vertx.samples.todolist.services.TodoService;
 import org.jspare.vertx.web.annotation.handler.Handler;
@@ -19,7 +18,6 @@ import java.util.stream.Collectors;
 @SubRouter("/todos")
 public class TodoRoute extends APIHandler {
 
-  @Inject
   private TodoService service;
 
   @Get
